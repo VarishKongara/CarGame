@@ -1,4 +1,5 @@
 # CarGame
 
-##Dependencies
--Raylib 5.5
+## Dependencies
+
+- Raylib 5.5

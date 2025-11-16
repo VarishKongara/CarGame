@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.16)
 project(CarGame CXX)
 
 # Use modern C++ standard
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Export compile commands so clangd (Neovim LSP) can use them
